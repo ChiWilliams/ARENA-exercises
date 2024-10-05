@@ -1,0 +1,26 @@
+Here they are:
+
+*args and **kwargs:
+
+Write a function called print_args_kwargs that takes any number of positional and keyword arguments and prints them out separately.
+
+Using set to find duplicates:
+
+Write a function find_duplicates that takes a list of integers and returns a list of the duplicate elements using a set.
+
+Decorators:
+
+Create a decorator called timer that measures and prints the execution time of the decorated function.
+
+A data structure from Collections:
+
+Use defaultdict from the collections module to count the occurrences of words in a given string, ignoring case.
+
+Zip and unzip:
+
+Write a function that takes two lists of equal length, zips them together, performs a simple operation (like multiplying the paired elements), and then unzips the result.
+
+For/else:
+
+Write a function that searches for a prime number in a given range of numbers. If found, print the number and break the loop. If not found, use the else clause to print a message.
+Would you like me to provide solutions for these problems or explain any of them further?
